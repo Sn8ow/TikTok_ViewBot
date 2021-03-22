@@ -11,7 +11,6 @@ The TikTok_ViewBot program allows you to promote your own or someone else's vide
 
 It works like this. You enter the program, paste the copied link from Tik Tok and it's done!
 
-# Photo!
-[Zrzut ekranu (21)](https://user-images.githubusercontent.com/80784394/111962910-34a75680-8af3-11eb-8100-10220449c1c2.png)
+# Photo![Zrzut ekranu (21)](https://user-images.githubusercontent.com/80784394/111962910-34a75680-8af3-11eb-8100-10220449c1c2.png)
 
 
