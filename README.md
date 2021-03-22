@@ -10,3 +10,4 @@ Secure ?
 How it works ?
 
 It works like this. You enter the program, paste the copied link from Tik Tok and it's done!
+https://github.com/NoNameoN-A/TikTok-Follow-Heart-Views-Bot#update-07mar2021
