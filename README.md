@@ -13,4 +13,8 @@ It works like this. You enter the program, paste the copied link from Tik Tok an
 
 # Photo![Zrzut ekranu (21)](https://user-images.githubusercontent.com/80784394/111962910-34a75680-8af3-11eb-8100-10220449c1c2.png)
 
+# Donation
+| Donation | Sn8ow |
+| --- | --- |
+| Link | https://www.tipeeestream.com/sn8ow/donation |
 
